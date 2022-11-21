@@ -1,5 +1,4 @@
-// Pembuatan codingan ini di kerjakan bersama sama oleh: Bayu, Rama, Althaf
-// Dan di bimbing oleh Fatir
+//Mencari nilai rata rata menggunakan avarage
 
 var input = require('readline-sync');
 var indo = input.question("Masukan nilai b.indo: ");
